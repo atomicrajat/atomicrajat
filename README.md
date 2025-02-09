@@ -8,7 +8,8 @@
 </div>
 
 ## 🚀 About Me
-> Embedded Firmware Engineer | Edge AI Enthusiast | Hardware AI | 3D printing
+> Embedded Firmware Engineer | Edge AI Enthusiast | Hardware AI | TinyML | 3D printing
+
 
 I'm passionate about creating innovative solutions at the intersection of hardware and software with AI. Currently working on embedded systems and IoT projects and learning how to use AI at the edge by different optmization techniques, with a focus on NVIDIA platforms like Jetson and other boards like raspberry pi, stm32, etc.
 
@@ -16,7 +17,7 @@ I'm passionate about creating innovative solutions at the intersection of hardwa
 <summary>🎯 More about me</summary>
 
 - 🔭 I'm currently working at Vimaan Robotics as a Embedded Firmware Engineer
-- 🌱 I'm learning [ROS/Embedded Systems/AI/ML/DL]
+- 🌱 I'm learning [ROS/Embedded Systems/AI/ML/DL/TinyML]
 - 👯 Open to collaborate on Embedded AI projects
 - 💬 Ask me about Edge AI, embedded systems, or 3D printing
 </details>
